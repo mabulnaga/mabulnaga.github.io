@@ -10,4 +10,4 @@ redirect_from:
 {% include base_path %}
 
 
-My CV can be downloaded here.
+My CV can be downloaded [here](../files/abulnaga_CV.pdf "CV").
