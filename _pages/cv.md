@@ -10,5 +10,4 @@ urlcolor: blue
 
 {% include base_path %}
 
-
 My CV can be downloaded [here](../files/abulnaga_CV.pdf "CV").
