@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Mazdak Abulnaga"
   avatar           : "profile.png"
-  bio              : "PhD student in EECS at MIT. abulnaga AT mit DOT edu"
+  bio              : "PhD student in EECS at MIT."
   location         : "Cambridge, MA"
   employer         :
   googlescholar    : 
@@ -98,7 +98,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "mabulnaga"
   orcid            : 
   pinterest        :
   soundcloud       :
